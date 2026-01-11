@@ -1,0 +1,31 @@
+reverse - Intro : INSASH{R3v3rs3_1n7r0_S4y_H3ll0}
+reverse - BGA ?!? : INSASH{B1n4ry_G4m3_4n4ly51s_101}
+reverse - Point generator : INSASH{P01n7_G3n3r470r_53r14l5}
+reverse - Where are my files ??? : INSASH{Wh3r3_4r3_My_F1l35_N0w}
+reverse - Strong login : INSASH{Str0nG_L0g1n_N07_S0_Str0nG}
+
+pwn - Intro : INSASH{Pwn_1n7r0_574ck_5m45h}
+pwn - Server management tool : INSASH{53rv3r_M4n4g3m3n7_0v3rfl0w}
+pwn - Asm runner : INSASH{45m_Runn3r_Jmp_C4ll_R37}
+pwn - Hack factory : INSASH{H4ck_F4c70ry_Buf_0v3rfl0w}
+pwn - Weird login page : INSASH{W31rd_L0g1n_Byp455_C00k13}
+
+forensic - ECHO Echo echo... : INSASH{3ch0_3ch0_3ch0_Tr4c35}
+forensic - Qui a touché à la clé USB ?? : INSASH{Qu1_4_T0uch3_U5B_K3y}
+
+osint - MAIS FALLAIT PAS PUSH : INSASH{M415_F4ll417_P45_Pu5h_1t}
+osint - Président Disparu : INSASH{Pr351d3n7_D15p4ru_0s1n7}
+
+stegano - Un étrange message : INSASH{Un_37r4ng3_M3554g3_H1dd3n}
+stegano - Chats de garde : INSASH{Ch475_D3_G4rd3_5t3g4n0}
+stegano - Poupées Ésotériques : INSASH{P0up335_35073r1qu35_L4y3r5}
+
+crypto - Vilain Sha : INSASH{V1l41n_5h4_N07_50_5tr0ng}
+crypto - Une question de précision : INSASH{Un3_Qu35710n_D3_Pr3c1510n}
+
+web - Articles en Folie : INSASH{4r71cl35_3n_F0l13_X55}
+web - Custom Parser : INSASH{Cu570m_P4r53r_P01s0n3d}
+web - Fausse Note : INSASH{F4u553_N073_5ql1_1nj3c71On}
+
+misc - Le cas Bruce Force : INSASH{Bruc3_F0rc3_7ry_H4rd3r}
+misc - Fi-pas-beau : INSASH{F1_P45_B34u_M15c_7r1ck5}
